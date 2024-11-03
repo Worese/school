@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 8% 40% 5% 40% ;
+}
+form{
+    border: 1px solid black;
+    padding: 5px 10px 0px 10px;
+
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+input{
+    margin: 0.2em;
+    margin-bottom: 3px;
+    padding: 8px ;
+    width: 100%;
+    border: 1px solid black;
+}
+a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
